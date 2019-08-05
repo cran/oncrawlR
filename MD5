@@ -1,6 +1,6 @@
-d3de19e255f6c308b8fa0842d99127b3 *DESCRIPTION
+b095460c30b01c94e9bb13f38fe058d4 *DESCRIPTION
 81dbde4a3d6c3b29d2d812cad8a3bae5 *LICENSE
-205e9525726335c3a153ae55bbe1c447 *NAMESPACE
+90cb62916145045dce08ad3c4750998b *NAMESPACE
 e2d09c4189199e0835555e34cf4bbdd2 *R/getCrawl.R
 1879bff90c6297741aa435d2a85da13a *R/getProject.R
 ea89b4568791166c833532ef6ec5d1ed *R/initAPI.R
@@ -8,8 +8,11 @@ d5d9043cd2714decc2b747ef76c00e11 *R/listLinks.R
 b3f83cae81def74fd732c321c22f185b *R/listLogs.R
 e4012132a92d3856db62f726152a1fbf *R/listPages.R
 cf6c72ffdf3a2c43e155101cbaf90517 *R/listProjects.R
-72dfc926a0cea60cadfc55c7a0e4a19f *R/utils.R
-7bf1970f661dfc729f07ed210fe84546 *README.md
+98840c45feb657d9926b31de328222a7 *R/utils-dataviz.R
+13ddb5b4e25b3f0eab6ad4ad53a6d96a *R/utils-model.R
+8ed8c980b991f71183ffc8f19286b4a4 *R/utils.R
+a68db4ddb073418ff2df443810d24c15 *README.md
+f9a166f739c344ab425a00e5229df5be *man/export_formattableWidget.Rd
 30165309de498e3b0bbe74599ffd3589 *man/getCrawl.Rd
 01ae02eb8380d231b2b63b68204cafe4 *man/getPageFields.Rd
 7f4850a8dcdd9e2e16e471baaf77ee9a *man/getProject.Rd
@@ -18,7 +21,9 @@ cf6c72ffdf3a2c43e155101cbaf90517 *R/listProjects.R
 c6e34107469acc4d22258644778cdb51 *man/listLogs.Rd
 3e26c1a2a72c7b7f2513ca50a9712799 *man/listPages.Rd
 18c7009be9aec0c24e9bb672e97c0d99 *man/listProjects.Rd
+3f74eea34eca7976b6170b2ce7ab9791 *man/oncrawlCreateDashboard.Rd
+af1b21f83e5da552f60389c777de8aab *man/oncrawlCreateGraph.Rd
 4b56b00b62a478876fb34f17343a208e *man/oncrawlCreateSegmentation.Rd
-e9cc19f878bab45239a3f5c095050467 *man/oncrawlExplainModel.Rd
+266b27f23cb6b196a037cba3b2f4774c *man/oncrawlExplainModel.Rd
 655372455898e96433f9991a70d3a697 *man/oncrawlSplitURL.Rd
-dabbfcda6557b440040b60fa9e189290 *man/oncrawlTrainModel.Rd
+b4b53ecd173f27ad9a07bf482dbb18c8 *man/oncrawlTrainModel.Rd
